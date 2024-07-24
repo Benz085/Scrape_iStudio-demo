@@ -1,0 +1,24 @@
+{
+  "name": "scrape_istudio-demo",
+  "version": "1.0.0",
+  "description": "scrape istudio - node 14.x.x",
+  "main": "index.js",
+  "dependencies": {
+    "chrome-cookies-secure": "^2.0.0",
+    "puppeteer": "^19.2.0",
+    "puppeteer-core": "^19.2.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "scrape",
+    "data"
+  ],
+  "author": "BenzNtp31",
+  "license": "ISC"
+}
